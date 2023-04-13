@@ -19,7 +19,7 @@ const Header = () => {
         <HeaderItem Icon={SearchIcon} title="SEARCH" />
         <HeaderItem Icon={UserIcon} title="ACCOUNT" />
       </div>
-      <p className="text-3xl font-[Verdana] text-white text-center">
+      <p className="text-3xl font-[Verdana] text-red-300 text-center">
         Movie Fetcher
       </p>
     </header>
